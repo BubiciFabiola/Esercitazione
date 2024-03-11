@@ -1,0 +1,30 @@
+C:\Users\fbubici\Desktop\Esercitazione\new ItaliaTreni-api\ItaliaTreni.Infrastructure\obj\Debug\net7.0\ItaliaTreni.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\fbubici\Desktop\Esercitazione\new ItaliaTreni-api\ItaliaTreni.Infrastructure\obj\Debug\net7.0\ItaliaTreni.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fbubici\Desktop\Esercitazione\new ItaliaTreni-api\ItaliaTreni.Infrastructure\obj\Debug\net7.0\ItaliaTreni.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\fbubici\Desktop\Esercitazione\new ItaliaTreni-api\ItaliaTreni.Infrastructure\obj\Debug\net7.0\ItaliaTreni.Infrastructure.AssemblyInfo.cs
+C:\Users\fbubici\Desktop\Esercitazione\new ItaliaTreni-api\ItaliaTreni.Infrastructure\obj\Debug\net7.0\ItaliaTreni.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\fbubici\Desktop\Esercitazione\new ItaliaTreni-api\ItaliaTreni.Infrastructure\bin\Debug\net7.0\ItaliaTreni.Infrastructure.deps.json
+C:\Users\fbubici\Desktop\Esercitazione\new ItaliaTreni-api\ItaliaTreni.Infrastructure\bin\Debug\net7.0\ItaliaTreni.Infrastructure.dll
+C:\Users\fbubici\Desktop\Esercitazione\new ItaliaTreni-api\ItaliaTreni.Infrastructure\bin\Debug\net7.0\ItaliaTreni.Infrastructure.pdb
+C:\Users\fbubici\Desktop\Esercitazione\new ItaliaTreni-api\ItaliaTreni.Infrastructure\bin\Debug\net7.0\ItaliaTreni.Domain.dll
+C:\Users\fbubici\Desktop\Esercitazione\new ItaliaTreni-api\ItaliaTreni.Infrastructure\bin\Debug\net7.0\ItaliaTreni.Domain.pdb
+C:\Users\fbubici\Desktop\Esercitazione\new ItaliaTreni-api\ItaliaTreni.Infrastructure\obj\Debug\net7.0\ItaliaTreni.Infrastructure.csproj.CopyComplete
+C:\Users\fbubici\Desktop\Esercitazione\new ItaliaTreni-api\ItaliaTreni.Infrastructure\obj\Debug\net7.0\ItaliaTreni.Infrastructure.dll
+C:\Users\fbubici\Desktop\Esercitazione\new ItaliaTreni-api\ItaliaTreni.Infrastructure\obj\Debug\net7.0\refint\ItaliaTreni.Infrastructure.dll
+C:\Users\fbubici\Desktop\Esercitazione\new ItaliaTreni-api\ItaliaTreni.Infrastructure\obj\Debug\net7.0\ItaliaTreni.Infrastructure.pdb
+C:\Users\fbubici\Desktop\Esercitazione\new ItaliaTreni-api\ItaliaTreni.Infrastructure\obj\Debug\net7.0\ref\ItaliaTreni.Infrastructure.dll
+C:\Users\fbubici\Desktop\Esercitazione\ItaliaTreni-api\ItaliaTreni.Infrastructure\bin\Debug\net7.0\ItaliaTreni.Infrastructure.deps.json
+C:\Users\fbubici\Desktop\Esercitazione\ItaliaTreni-api\ItaliaTreni.Infrastructure\bin\Debug\net7.0\ItaliaTreni.Infrastructure.dll
+C:\Users\fbubici\Desktop\Esercitazione\ItaliaTreni-api\ItaliaTreni.Infrastructure\bin\Debug\net7.0\ItaliaTreni.Infrastructure.pdb
+C:\Users\fbubici\Desktop\Esercitazione\ItaliaTreni-api\ItaliaTreni.Infrastructure\bin\Debug\net7.0\ItaliaTreni.Domain.dll
+C:\Users\fbubici\Desktop\Esercitazione\ItaliaTreni-api\ItaliaTreni.Infrastructure\bin\Debug\net7.0\ItaliaTreni.Domain.pdb
+C:\Users\fbubici\Desktop\Esercitazione\ItaliaTreni-api\ItaliaTreni.Infrastructure\obj\Debug\net7.0\ItaliaTreni.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\fbubici\Desktop\Esercitazione\ItaliaTreni-api\ItaliaTreni.Infrastructure\obj\Debug\net7.0\ItaliaTreni.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fbubici\Desktop\Esercitazione\ItaliaTreni-api\ItaliaTreni.Infrastructure\obj\Debug\net7.0\ItaliaTreni.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\fbubici\Desktop\Esercitazione\ItaliaTreni-api\ItaliaTreni.Infrastructure\obj\Debug\net7.0\ItaliaTreni.Infrastructure.AssemblyInfo.cs
+C:\Users\fbubici\Desktop\Esercitazione\ItaliaTreni-api\ItaliaTreni.Infrastructure\obj\Debug\net7.0\ItaliaTreni.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\fbubici\Desktop\Esercitazione\ItaliaTreni-api\ItaliaTreni.Infrastructure\obj\Debug\net7.0\ItaliaTreni.Infrastructure.csproj.CopyComplete
+C:\Users\fbubici\Desktop\Esercitazione\ItaliaTreni-api\ItaliaTreni.Infrastructure\obj\Debug\net7.0\ItaliaTreni.Infrastructure.dll
+C:\Users\fbubici\Desktop\Esercitazione\ItaliaTreni-api\ItaliaTreni.Infrastructure\obj\Debug\net7.0\refint\ItaliaTreni.Infrastructure.dll
+C:\Users\fbubici\Desktop\Esercitazione\ItaliaTreni-api\ItaliaTreni.Infrastructure\obj\Debug\net7.0\ItaliaTreni.Infrastructure.pdb
+C:\Users\fbubici\Desktop\Esercitazione\ItaliaTreni-api\ItaliaTreni.Infrastructure\obj\Debug\net7.0\ref\ItaliaTreni.Infrastructure.dll
