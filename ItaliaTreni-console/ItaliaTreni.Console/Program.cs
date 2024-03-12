@@ -27,7 +27,8 @@ var csvConfiguration = new CsvConfiguration(csvParserCulture)
 int counter = 0;
 try
 {
-    bool isApiSuccess = false;
+    bool isCurrentApiSuccess = false;
+    List<bool> allApiSuccess = new List<bool>();
     List<DataFile> datas = new List<DataFile>();
 
     var client = new RestClient(urlApi);
@@ -60,7 +61,13 @@ try
                 createFileRequest.Datas = datas;
                 request.AddBody(createFileRequest);
                 var response = client.Post(request);
-                isApiSuccess = response.IsSuccessful;
+                isCurrentApiSuccess = response.IsSuccessful;
+                allApiSuccess.Add(isCurrentApiSuccess);
+                if (!isCurrentApiSuccess)
+                {
+                    Console.WriteLine("ErrorMessage: " + response.ErrorMessage);
+                    Console.WriteLine("ErrorException: " + response.ErrorException);
+                }
 
                 datas = new List<DataFile>();
                 counter = 0;
@@ -68,15 +75,21 @@ try
         }
     }
 
-    if (datas.Any() && isApiSuccess)
+    if (datas.Any())
     {
         createFileRequest.Datas = datas;
         request.AddBody(createFileRequest);
         var response = client.Post(request);
-        isApiSuccess = response.IsSuccessful;
+        isCurrentApiSuccess = response.IsSuccessful;
+        allApiSuccess.Add(isCurrentApiSuccess);
+        if (!isCurrentApiSuccess)
+        {
+            Console.WriteLine("ErrorMessage: " + response.ErrorMessage);
+            Console.WriteLine("ErrorException: " + response.ErrorException);
+        }
     }
 
-    if (isApiSuccess)
+    if (allApiSuccess.All(x => x.Equals(true)))
     {
         //Move file to archive file
         Console.WriteLine("Move file to in folder archive");
